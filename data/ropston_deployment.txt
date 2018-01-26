@@ -1,0 +1,96 @@
+Using network 'ropsten'.
+
+Running migration: 1_initial_migration.js
+  Replacing Migrations...
+  ... 0x15ab7fb812e9536796dc7e1326b09a7690d3c3fc72a68f64b4976c1ba619a677
+
+
+
+
+
+
+  Migrations: 0x08e7992001a36420ebc35540fd0a2f0fb4d09a26
+Saving successful migration to network...
+  ... 0x0c74db3bc957155121fcd2d6c510abd6ae9b7ef6dd86443b0aff1756a230b402
+Saving artifacts...
+Running migration: 2_smart_contract.js
+  Replacing dHealthToken...
+  ... 0x06e8f881cd868513d7a1b98a2996a61aceca249c428b4ecc4aa83d2e71502d31
+  dHealthToken: 0x9480e73ab5430bf31ea9ed1dd79f8cb8b446135b
+----------------------------------
+Token Instance 0x9480e73ab5430bf31ea9ed1dd79f8cb8b446135b
+----------------------------------
+Saving successful migration to network...
+  Deploying dHealthTokenGrowth...
+  ... 0xa7fbcbfc87521c3036b0ffdefdc1ccdcfe0197efdbaed794e595b09fac583c81
+  ... 0xb51f020840f28bb4396769144c7195aee04d373da6f83311d34e8e71b9b8563d
+Saving artifacts...
+  dHealthTokenGrowth: 0xa0e9bc2e0f11d1a9e01a6197b75492e561832167
+----------------------------------
+Growth Instance 0xa0e9bc2e0f11d1a9e01a6197b75492e561832167
+----------------------------------
+  Deploying dHealthTokenVesting...
+  ... 0x9400c1270b5661bf5f57a864fa4ae9f0cbfb0a91376b2f918444873f6e00d26c
+  dHealthTokenVesting: 0xf46c9c251cbbe9e4f331a19fe4465abad5954d52
+----------------------------------
+Community Token Vesting 0xf46c9c251cbbe9e4f331a19fe4465abad5954d52
+----------------------------------
+  Replacing dHealthTokenVesting...
+  ... 0x81b1961071b472eb428927e701abec5a1b5eccc298117953e5a27ceecfad0e27
+  dHealthTokenVesting: 0x08d252e97c1b900d2af87a6fbe8629aa0692b594
+----------------------------------
+Founders Token Vesting 0x08d252e97c1b900d2af87a6fbe8629aa0692b594
+----------------------------------
+  Replacing dHealthTokenVesting...
+  ... 0xa6f73ce1d5c55f180230d7ef8461a1a784d68d0d9a714418c82b889a6764df09
+  dHealthTokenVesting: 0xcfbff9ec0ba1845cead1436ed1fbe69fa0ae0e89
+----------------------------------
+Technical Token Vesting 0xcfbff9ec0ba1845cead1436ed1fbe69fa0ae0e89
+----------------------------------
+  Replacing dHealthTokenVesting...
+  ... 0x994ca14b0cab5be6f9e9e02a45ea46ba414c27ba8041317bfe6341ecf2dec0e0
+  dHealthTokenVesting: 0x1fa7f0c91fcd37de4e2f494dd6da8cb619d133a2
+----------------------------------
+Management Token Vesting 0x1fa7f0c91fcd37de4e2f494dd6da8cb619d133a2
+----------------------------------
+  Deploying dHealthTokenIncentive...
+  ... 0x3240a43c05a38cb2486cde95fb687498e12ccc4716260b6f986c2baa101ed819
+  dHealthTokenIncentive: 0x0f1329fa8b00e4a83049d2cb2bef62697f88f107
+----------------------------------
+Incentive Instance 0x0f1329fa8b00e4a83049d2cb2bef62697f88f107
+----------------------------------
+  Deploying dHealthEtherVesting...
+  ... 0x27efab7b14d4212832b8f1fb23cb6e7ae4f3f9f3e6fb6383797a33af5864fc12
+  dHealthEtherVesting: 0x21221cc80d8bb80825c7387d3d1b66720504dbf6
+----------------------------------
+Project Vesting Instance 0x21221cc80d8bb80825c7387d3d1b66720504dbf6
+----------------------------------
+  Replacing dHealthEtherVesting...
+  ... 0xd97d01d99d94bfad591ce407c1a0505298a8fc6ba521974cc8cebe143b4c29b1
+  dHealthEtherVesting: 0xc037814270e594621229131f2d7d66bbf94c4c2f
+----------------------------------
+Technology Vesting Instance 0xc037814270e594621229131f2d7d66bbf94c4c2f
+----------------------------------
+  Replacing dHealthEtherVesting...
+  ... 0x2bffea94c4fbb0445506302b233f52df152136955a7acb9f7084919bdc261a54
+  dHealthEtherVesting: 0xe378f52f9c4eaa4f47582d62c87af3e3a66bc8e2
+----------------------------------
+Founder Vesting Instance 0xe378f52f9c4eaa4f47582d62c87af3e3a66bc8e2
+----------------------------------
+  Deploying dHealthTokenSale...
+  ... 0xee0424c025bb660bda9f74bfe403258796c69ed60b474b92f86ded35ac9c4f13
+  dHealthTokenSale: 0x8516be636fb67104e5b0b4558c6a742c70713844
+----------------------------------
+Sale Instance 0x8516be636fb67104e5b0b4558c6a742c70713844
+----------------------------------
+--------------------------------------------------------------
+maxTokenForSale: 1.8e+26
+Transferring to :0x8516be636fb67104e5b0b4558c6a742c70713844 1.8e+26
+  ... 0x4b880c5169e462c5ff749579c3e679a86777eda1823f0a5bdf4f37c2aea5849c
+Transfer Txn :0x4b880c5169e462c5ff749579c3e679a86777eda1823f0a5bdf4f37c2aea5849c
+Balance of Sale 1.8e+26
+--------------------------------------------------------------
+--------------------------------------------------------------
+maxTokenForHold: 1.8e+26
+Transferring to :0xa0e9bc2e0f11d1a9e01a6197b75492e561832167 1.8e+26
+  ... 0x669dea4c8cff90f4a81f69411c325eb53aada2a640467bbda4a77bc458aa7aa9
